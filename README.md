@@ -16,8 +16,8 @@ Program ini dibuat untuk mensimulasikan sistem **multi-threaded cache** dengan t
 ---
 
 ## 🚀 Cara Menjalankan Program
-1. Simpan program di file `cache_simulator.py`
+1. Simpan program di file `OAK MultiThread.py`
 2. Jalankan dengan:
 
 ```bash
-python OAK MultiThreads.py
+python OAK MultiThread.py
